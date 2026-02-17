@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Dimas and I'm a indie app developer, based on Indonesia</p>
+<p align="left">My name is Dimas and I'm a indie app developer, based on Malang</p>
 
 ###
 
